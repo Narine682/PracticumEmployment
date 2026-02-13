@@ -44,13 +44,16 @@ hh https://hh.ru/resume/c3904846ff0fcd44a70039ed1f646265565747
 Telegram: @kaznarine
 
 ## Unit Tests - Stellar Burgers
+
 Юнит тестирование программы для оформления заказа в Stellar Burgers.
 Использовано:
+
 -Python
 -Pytest
 -pytest-cov
 -Mock
 -Параметризация
+
 Покрыт тестами класс Burger: проверка добавления ингредиентов, расчёта стоитости и корректности работы методов.
 
 ## API Autommation - Stellar Burgers
